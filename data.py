@@ -24,9 +24,9 @@ vehicle_prices = {
         "5톤": {"price": 1200000, "men": 3, "housewife": 1},
         "6톤": {"price": 1350000, "men": 3, "housewife": 1},
         "7.5톤": {"price": 1750000, "men": 4, "housewife": 1},
-        "10톤": {"price": 2300000, "men": 5, "housewife": 1},
-        "15톤": {"price": 2800000, "men": 6, "housewife": 1},
-        "20톤": {"price": 3500000, "men": 8, "housewife": 1},
+        "10톤": {"price": 2300000, "men": 5, "housewife": 2},
+        "15톤": {"price": 3500000, "men": 6, "housewife": 2}, 
+        "20톤": {"price": 4500000, "men": 8, "housewife": 2},
     },
     "사무실 이사 🏢": {
         "1톤": {"price": 400000, "men": 2},
@@ -36,8 +36,8 @@ vehicle_prices = {
         "6톤": {"price": 1050000, "men": 3},
         "7.5톤": {"price": 1300000, "men": 4},
         "10톤": {"price": 1700000, "men": 5},
-        "15톤": {"price": 2000000, "men": 6},
-        "20톤": {"price": 2500000, "men": 8},
+        "15톤": {"price": 2800000, "men": 7}, # 
+        "20톤": {"price": 3700000, "men": 8},
     }
 }
 
